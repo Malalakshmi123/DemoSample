@@ -13,6 +13,9 @@ public class Test2 {
 		employee[2]=emp3;
 		Department department=new Department(11, "BCCh", employee);
 		department.display();
+		
+		
+		System.out.println("jskfkahrkjhkdjsjsjh");
 
 	}
 
