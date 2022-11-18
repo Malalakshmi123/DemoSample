@@ -7,7 +7,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		Account acc=new Account();
-		acc.setAccNo(123456);
+		acc.setAccNo(12345);
 		acc.setAccType("salary account");
 		acc.setAccholdername("lakshmi");
 		Employee emp=new Employee();
@@ -17,7 +17,7 @@ public class Test1 {
 		emp.setAccount(acc);
 		emp.display();
 		
-		
+		System.out.println("jgsakuf");
 
 	}
 
